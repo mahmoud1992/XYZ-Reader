@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\M@7m0ud\.android\build-cache\f4809f23f3bece51b9f0eabfe9ceb219614b0b69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\M@7m0ud\Desktop\XYZ-Reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8ad34b8dc91c30b106eb85fc777d5ad0c185677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M@7m0ud\Desktop\XYZ-Reader-master\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\M@7m0ud\Desktop\XYZ-Reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a7906a4dfa0bfaf16e160841deb895ad2797cb9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M@7m0ud\Desktop\XYZ-Reader-master\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="522f10070862314686a154d820a16308df916f46">
+        <dex dex="C:\Users\M@7m0ud\Desktop\XYZ-Reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_53230194b5d7921897d7775a91cefeada9d9aa4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M@7m0ud\Desktop\XYZ-Reader-master\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\M@7m0ud\Desktop\XYZ-Reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_9a7cd3f7b0dbe0b1f4c9c915e8e6ab706fe2dbf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M@7m0ud\.android\build-cache\4869cc2a6f0aa65c2e66d9998e3ab44f8417e774\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\M@7m0ud\Desktop\XYZ-Reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58ae5468aac53db6f1a507fda36f356f5ebc0525\classes.dex" />
+    </item>
+
+</items>
